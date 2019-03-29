@@ -1,3 +1,4 @@
-baseurl = "/"
-languageCode = "en-us"
-title = "Homepage"
+baseURL = "/"
+languageCode = "ja-jp"
+title = "My New Hugo Site"
+theme = "onepress"
